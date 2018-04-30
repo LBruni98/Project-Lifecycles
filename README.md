@@ -39,6 +39,11 @@ Spiral, however, requires a very strict management to complete the project, bein
 
 Spiral mainly caters towards projects of substantial risk, if resources are minimal and the project must have a long-term commitment because of the constantly changing requirements. Smaller or lower risk projects suffer, along with it being too expensive for smaller projects.
 
+##### How Risk is Managed in Spiral
+The spiral model is similar to the incremental model, but risk analysis plays more of an important part, being that it’s a crucial phase in the model, after the planning phase. In this, a process is carried out to identify the risks and to find any alternate solutions, with a prototype being developed at the end of this phase. When any risk is found, developers would suggest solutions and these are implemented, this in turn helps the project with eliminating any risk earlier for a more stable development and product.
+
+This lifecycle helps with any higher risk, bigger and/or costly projects where risk could be very prominent and the iterative nature of the spiral allows the project to head back to that phase, allowing for more risk assessment and better solutions to be implemented, allowing for improvement and change within the project.
+
 #### Rapid Application Development (RAD)
 RAD or Rapid Application Development is a methodology that uses little to no planning for rapid prototyping and mainly focuses on developing modules in parallel to create the main product at a rapid pace.
 
